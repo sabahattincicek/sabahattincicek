@@ -80,12 +80,6 @@ C# (.NET) • Java • Kotlin (Android) • Embedded Systems • CAD (3D Design)
 
 ---
 
-## Portfolio
-
-https://sabahattincicek.github.io  
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sabahattin-%C3%A7i%C3%A7ek/  
