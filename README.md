@@ -1,58 +1,92 @@
 # Merhaba, ben Sabahattin  
 
-Yazılım ile donanımın birleştiği sistemler geliştiren bir Mekatronik Mühendisiyim.
+Yazılım ile donanımın birleştiği sistemler geliştirmeye odaklanan bir Mekatronik Mühendisiyim.
 
 ---
 
 ## Hakkımda
 
 - Mekatronik Mühendisliği mezunu  
-- Gömülü sistemler ve yazılım-donanım entegrasyonu  
-- Android (Kotlin) geliştirme  
-- Robotik ve simülasyon sistemleri  
+- Gömülü sistemler ve yazılım-donanım entegrasyonu üzerine odaklı  
+- Aktif olarak Kotlin ile Android uygulamaları geliştiriyorum  
+- Hem simülasyon hem gerçek sistem geliştirme deneyimine sahibim  
+
+En çok ilgimi çeken konular:
+- Yazılımın fiziksel sistemlerle etkileşimi  
+- Haberleşme protokolleri ve sistem davranışları  
+- Kodun donanım seviyesinde nasıl çalıştığı  
 
 ---
 
 ## Kullandığım Teknolojiler
 
-C# (.NET) • Java • Kotlin • Embedded Systems • CAD
+C# (.NET) • Java • Kotlin (Android) • Gömülü Sistemler • CAD (3D Tasarım)
 
 ---
 
 ## Projeler
 
-### Roket Sistemleri
-Yer istasyonu, uçuş bilgisayarı ve mekanik tasarım.
+### Roket Sistemleri (3 Yıl)
 
-### 4 Bacaklı Robot Köpek
-Tasarım, kinematik, yazılım ve elektronik dahil full sistem.
+- Telemetri ve görselleştirme için yer istasyonu yazılımı  
+- Roketin mekanik tasarımı ve üretimi  
+- Uçuş bilgisayarı yazılımı ve test süreçleri  
 
-### Android Öğrenci Uygulaması
-Ders ve sınav takibi uygulaması.
+---
+
+### 4 Bacaklı Robot Köpek (Bitirme Projesi)
+
+- Mekanik, yazılım ve elektronik dahil komple sistem tasarımı  
+- Kinematik hesaplamalar ve kontrol algoritmaları  
+- Gerçek zamanlı dijital ikiz simülasyonu  
+- Mobil kontrol uygulaması  
+- PCB tasarımı ve donanım entegrasyonu  
+
+---
+
+### Öğrenci Planlayıcı Uygulaması
+
+- Kotlin ile geliştirilmiş Android uygulaması  
+- Ders, sınav ve ödev takibi  
+- Açık kaynak proje  
+- İlk sürüm yayınlandı  
+
+---
 
 ### Güneş Tarlası Otomasyon Aracı
-CAD süreçlerini otomatikleştiren yazılım.
+
+- Erken aşama proje tasarım sürecini otomatikleştiren yazılım  
+- CAD tabanlı süreçten bağımsız uygulamaya dönüşüm  
+- Mühendislik planlama süresini ciddi şekilde azalttı  
 
 ---
 
-## Şu Anda
+## Şu Anda Üzerinde Çalışıyorum
 
-Android ve robotik sistemler geliştiriyorum.
+- Android uygulama geliştirme  
+- Robotik ve gömülü sistem projeleri  
 
 ---
 
-## GitHub Stats
+## GitHub İstatistikleri
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sabahattincicek&show_icons=true)
 
 ---
 
-## Visitor
+## Ziyaretçi Sayısı
 
 ![views](https://komarev.com/ghpvc/?username=sabahattincicek)
 
 ---
 
-## CV
+## Portfolyo
 
-https://sabahattincicek.github.io
+https://sabahattincicek.github.io  
+
+---
+
+## İletişim
+
+- LinkedIn: https://www.linkedin.com/in/sabahattin-%C3%A7i%C3%A7ek/  
+- Email: sabahattincck@outlook.com
