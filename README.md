@@ -80,12 +80,6 @@ C# (.NET) • Java • Kotlin (Android) • Gömülü Sistemler • CAD (3D Tasa
 
 ---
 
-## Portfolyo
-
-https://sabahattincicek.github.io  
-
----
-
 ## İletişim
 
 - LinkedIn: https://www.linkedin.com/in/sabahattin-%C3%A7i%C3%A7ek/  
