@@ -70,7 +70,7 @@ C# (.NET) • Java • Kotlin (Android) • Gömülü Sistemler • CAD (3D Tasa
 
 ## GitHub İstatistikleri
 
-![stats](https://github-readme-stats.vercel.app/api?username=sabahattincicek&show_icons=true)
+![stats](https://github-readme-stats.shion.dev/api?username=sabahattincicek&show_icons=true)
 
 ---
 
