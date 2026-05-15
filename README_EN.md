@@ -70,7 +70,7 @@ C# (.NET) • Java • Kotlin (Android) • Embedded Systems • CAD (3D Design)
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=sabahattincicek&show_icons=true)
+![stats](https://github-readme-stats.shion.dev/api?username=sabahattincicek&show_icons=true)
 
 ---
 
